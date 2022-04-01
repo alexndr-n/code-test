@@ -1,0 +1,17 @@
+projectName: Coding Assessment Alejandro
+learnMoreLink: https://www.createinc.co
+repoOwner: Create-Inc-Candidates
+repoName: coding-assessment-alejandro
+abbreviatedProjectName: codingAssessmentAlejandro
+stack:
+  - features: []
+    kind: LiveCodingAssessment
+    path: .
+environments:
+  - Production
+  - Staging
+  - Development
+  - Storybook
+config:
+  version: 0.0.1
+  commitHash: e35f352
