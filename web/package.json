@@ -12,6 +12,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "next": "^11.1.2",
     "postcss-import": "^14.0.2",
     "react": "^17.0.0",
@@ -29,8 +30,8 @@
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
     "husky": "^7.0.2",
-    "lint-staged": "^10.2.11",
     "jest": "^27.3.1",
+    "lint-staged": "^10.2.11",
     "postcss": "^8.3.9",
     "prettier": "^2.3.2",
     "tailwindcss": "^2.2.17",
